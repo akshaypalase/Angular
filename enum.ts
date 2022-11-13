@@ -15,4 +15,4 @@ enum WeekEnds {
 }
 
 console.log(WeekEnds[6]);
-console.log(WeekEnds[7])
+console.log(WeekEnds[7]);
